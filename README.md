@@ -12,7 +12,6 @@ Puedes visualizar el reporte completo generado con R Markdown en el siguiente en
 👉 Reporte interactivo EDA:
 🔗 https://andreyac1397.github.io/Estadistica_EDA/
 
-(Una vez publiques tu página, solo pegas el enlace arriba)
 
 📘 Descripción del Proyecto
 
